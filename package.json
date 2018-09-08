@@ -24,5 +24,11 @@
   "homepage": "https://github.com/learn-co-curriculum/space-invaders#readme",
   "devDependencies": {
     "learn-browser": "^0.1.14"
+<<<<<<< HEAD
+=======
+  },
+  "dependencies": {
+    "mocha-jsdom": "^2.0.0"
+>>>>>>> 2db49a62404f02deb4a273a6e68623b76f98880a
   }
 }
